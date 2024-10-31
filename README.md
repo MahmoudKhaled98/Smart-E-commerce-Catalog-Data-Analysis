@@ -7,37 +7,38 @@ This project, Smart E-commerce Catalog Data Analysis, aims to analyze and enhanc
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Key Problems Addressed](#key-problems-addressed)
-3. [Key Analysis Steps](#key-analysis-steps)
-4. [Data Preparation](#data-preparation)
-   - 4.1 [Creating the Catalog, Database, and Table](#creating-the-catalog-database-and-table)
+1. [Introduction](#1-introduction)
+2. [Key Problems Addressed](#2-key-problems-addressed)
+3. [Key Analysis Steps](#3-key-analysis-steps)
+4. [Data Preparation](#4-data-preparation)
+   - 4.1 [Creating the Catalog, Database, and Table](#41-creating-the-catalog-database-and-table)
    
-5. [Data Analysis](#data-analysis)
-   - 5.1 [Part 1 - SQL Based EDA on E-commerce Data](#part-1-sql-based-eda-on-e-commerce-data)
-   - 5.2 [Part 2 - Advanced EDA on E-commerce Data](#part-2-advanced-eda-on-e-commerce-data)
-   - 5.3 [Rating Distribution and Feature Engineering Prep](#rating-distribution-and-feature-engineering-prep)
-   - 5.4 [ANOVA on E-commerce Data](#anova-on-e-commerce-data)
-   - 5.5 [Visualizing Results](#visualizing-results)
-6. [Feature Engineering on E-commerce Data](#feature-engineering-on-e-commerce-data)
-   - 6.1 [Creating Features](#creating-features)
-   - 6.2 [Handling Categorical Variables](#handling-categorical-variables)
-   - 6.3 [Saving Prepared Data](#saving-prepared-data)
-7. [Logistic Regression Analysis on E-commerce Data](#logistic-regression-analysis-on-e-commerce-data)
-   - 7.1 [Model Setup](#model-setup)
-   - 7.2 [Assumption Checks](#assumption-checks)
-   - 7.3 [Preparing the Data](#preparing-the-data)
-   - 7.4 [Fitting the Logistic Regression Model](#fitting-the-logistic-regression-model)
-   - 7.5 [Making Predictions](#making-predictions)
-   - 7.6 [Evaluating the Model](#evaluating-the-model)
-   - 7.7 [Visualizing the Results](#visualizing-the-results)
-   - 7.8 [The Interpretation of the Coefficients, Odds Ratio, and The Confusion Matrix](#the-interpretation-of-the-coefficients-odds-ratio-and-the-confusion-matrix)
+5. [Data Analysis](#5-data-analysis)
+   - 5.1 [Part 1 - SQL Based EDA on E-commerce Data](#51-part-1---sql-based-eda-on-e-commerce-data)
+   - 5.2 [Part 2 - Advanced EDA on E-commerce Data](#52-part-2---advanced-eda-on-e-commerce-data)
+   - 5.3 [Rating Distribution and Feature Engineering Prep](#53-rating-distribution-and-feature-engineering-prep)
+   - 5.4 [ANOVA on E-commerce Data](#54-anova-on-e-commerce-data)
+   - 5.5 [Visualizing Results](#55-visualizing-results)
+6. [Feature Engineering on E-commerce Data](#6-feature-engineering-on-e-commerce-data)
+   - 6.1 [Creating Features](#61-creating-features)
+   - 6.2 [Handling Categorical Variables](#62-handling-categorical-variables)
+   - 6.3 [Saving Prepared Data](#63-saving-prepared-data)
+7. [Logistic Regression Analysis on E-commerce Data](#7-logistic-regression-analysis-on-e-commerce-data)
+   - 7.1 [Model Setup](#71-model-setup)
+   - 7.2 [Assumption Checks](#72-assumption-checks)
+   - 7.3 [Preparing the Data](#73-preparing-the-data)
+   - 7.4 [Fitting the Logistic Regression Model](#74-fitting-the-logistic-regression-model)
+   - 7.5 [Making Predictions](#75-making-predictions)
+   - 7.6 [Evaluating the Model](#76-evaluating-the-model)
+   - 7.7 [Visualizing Results](#77-visualizing-results)
+   - 7.8 [The Interpretation of the Coefficients, Odds Ratio, and The Confusion Matrix](#78-the-interpretation-of-the-coefficients-odds-ratio-and-the-confusion-matrix)
 
    
-8. [Conclusion](#conclusion)
-9. [Summary for Stakeholders](#summary-for-stakeholders)
-10. [How to Run](#how-to-run)
-11. [References](#References)
+8. [Conclusion](#8-conclusion)
+9. [Summary for Stakeholders](#9-summary-for-stakeholders)
+10. [How to Run](#10-how-to-run)
+11. [References](#11-references)
+12. [Databricks Notebooks](#12-databricks-notebooks)
 
 ## 1. Introduction
 
@@ -552,6 +553,25 @@ By implementing these recommendations, the company can effectively enhance produ
 
 
 2. [Seaborn Documentation](https://seaborn.pydata.org/)
+
+
+
+## 12. Databricks Notebooks
+
+
+1. [Creating the Catalog, Database, and Table](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1340082191806087/1724356274907544/5602682217449942/latest.html)
+2. [Data Analysis Part 1 - SQL Based EDA on E-commerce Data](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1340082191806087/1724356274907569/5602682217449942/latest.html)
+3. [Data Analysis Part 2 - Advanced EDA on E-commerce Data](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1340082191806087/1724356274907590/5602682217449942/latest.html)
+4. [ANOVA on E-commerce Data](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1340082191806087/4181206235643541/5602682217449942/latest.html)
+5. [Feature Engineering on E-commerce Data](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1340082191806087/4181206235643557/5602682217449942/latest.html)
+6. [Logistic Regression Analysis on E-commerce Data](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1340082191806087/4181206235643571/5602682217449942/latest.html)
+
+
+
+
+
+
+   
 
 
  
